@@ -1,0 +1,12 @@
+iscoID,iscoCode,iscoDesc
+1,1,1 - Managers
+2,2,2 - Professionals
+3,3,3 - Technicians and associate professionals
+4,4,4 - Clerical support workers
+5,5,5 - Service and sales workers
+6,6,"6 - Skilled agricultural, forestry and fishery workers"
+7,7,7 - Craft and related trades workers
+8,8,"8 - Plant and machine operators, and assemblers"
+9,9,9 - Elementary occupations
+10,0,0 - Armed forces occupations
+11,_X,X - Not elsewhere classified

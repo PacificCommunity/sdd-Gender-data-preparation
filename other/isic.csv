@@ -1,0 +1,23 @@
+isicID,isicCode,isicDesc
+1,A,"A - Agriculture, forestry and fishing"
+2,B,B - Mining and quarrying
+3,C,C - Manufacturing
+4,D,"D - Electricity, gas, steam and air conditioning supply"
+5,E,"E - Water supply; sewerage, waste management and remediation activities"
+6,F,F - Construction
+7,G,G - Wholesale and retail trade; repair of motor vehicles and motorcycles
+8,H,H - Transportation and storage
+9,I,I - Accommodation and food service activities
+10,J,J - Information and communication
+11,K,K - Financial and insurance activities
+12,L,L - Real estate activities
+13,M,"M - Professional, scientific and technical activities"
+14,N,N - Administrative and support service activities
+15,O,O - Public administration and defence; compulsory social security
+16,P,P - Education
+17,Q,Q - Human health and social work activities
+18,R,"R - Arts, entertainment and recreation"
+19,S,S - Other service activities
+20,T,T - Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+21,U,U - Activities of extraterritorial organizations and bodies
+22,X,X - Not elsewhere classified
