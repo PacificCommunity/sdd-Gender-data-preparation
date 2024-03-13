@@ -10,7 +10,7 @@ repository <- file.path(dirname(rstudioapi::getSourceEditorContext()$path))
 setwd(repository)
 
 # Connect to the VCMB SQL database system from server vbosinfo
-mydb <- odbcConnect("gender", uid = "sa", pwd = "R@admin00x")
+mydb <- odbcConnect("gender", uid = "****", pwd = "******")
 
 #source the function the generate the dataframes and populate the MSSQL database
 #source("dataPreparation.R")

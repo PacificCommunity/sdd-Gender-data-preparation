@@ -60,7 +60,7 @@ gender$disabled[is.na(gender$disabled)] <- 999
 gender$job1_occ1[is.na(gender$job1_occ1)] <- 999
 gender$job1_eco1[is.na(gender$job1_eco1)] <- 999
 
-sqlSave(mydb, gender, tablename = "gender", append = TRUE)
+sqlSave(mydb, gender, tablename = "gender", append = FALSE)
 sqlSave(mydb, datasource, tablename = "datasource", append = FALSE)
 sqlSave(mydb, ageGroup1, tablename = "ageGroup1", append = FALSE)
 sqlSave(mydb, edattain, tablename = "edattain", append = FALSE)
